@@ -1,5 +1,6 @@
 # TeXTalk
 Cal Hacks 6.0: Text to speech meets LaTeX formatting!
+
 Check out https://devpost.com/software/textalk for more info.
 
 ## Dependencies
